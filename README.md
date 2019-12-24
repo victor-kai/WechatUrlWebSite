@@ -1,9 +1,8 @@
 ### 整站源码下载网址：
-`https://github.com/wanjunlengfeng/WechatUrlWebSite.git`
+   `https://github.com/victor-kai/WechatUrlWebSite.git`
 
 ```javascript
-本项目是微信/QQ防封系统售卖系统。如果你的项目希望防止微信拦截，需要使用防封系统，请访问http://www.v94.cn
-使用api，请使用https://github.com/wanjunlengfeng/wechaturlcheckpreventingblockedapi.git
+本项目是微信/QQ防封系统售卖系统。如果你的项目希望防止微信拦截，需要使用防封系统，请访问http://www.wechatguard.online
 ```
 
 ### 安装完成后得到的路径：
@@ -35,7 +34,7 @@
 
 > 免费获取AGENT_APPID和AGENT_APPKEY
 
-> 请到http://www.v94.cn/manage/ 去查看,如果没有，只需要免费申请一个就可以了。申请地址：http://www.v94.cn/get_free_source_code.html
+> 请到http://www.wechatguard.online/manage/ 去查看,如果没有，只需要免费申请一个就可以了。申请地址：http://www.wechatguard.online/get_free_source_code.html
 
 # 不死鸟防封系统的优点
 
